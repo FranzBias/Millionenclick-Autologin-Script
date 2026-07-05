@@ -1,4 +1,4 @@
-# Millionenclick Autologin
+# Millionenclick Autologin Script
 
 ## A Tampermonkey userscript (or a similar userscript manager)
 
