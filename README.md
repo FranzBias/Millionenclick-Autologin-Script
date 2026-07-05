@@ -1,7 +1,8 @@
 # Millionenclick Autologin
-## A Tampermonkey userscript (or a similar userscript manager)
----
 
+## A Tampermonkey userscript (or a similar userscript manager)
+
+---
 ## 🇩🇪 Deutsch
 
 ### Beschreibung
