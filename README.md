@@ -1,6 +1,6 @@
 # Millionenclick Autologin Script
 
-## A Tampermonkey userscript (or a similar userscript manager)
+## A Tampermonkey (or a similar userscript manager) userscript
 
 ## 🇩🇪 Deutsch
 
