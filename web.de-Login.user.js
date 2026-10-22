@@ -2,7 +2,7 @@
 // @name         web.de-Login
 // @name:de      web.de-Login
 // @name:en      web.de Login
-// @namespace    https://github.com/FranzBias
+// @namespace    http://tampermonkey.net/
 // @version      26.0
 // @icon         https://i.imgur.com/GbIXQZ2.png
 // @description     Automatic login and "Weiter" click on millionenklick.web.de
@@ -29,7 +29,8 @@
  *
  * v26.0: Tampermonkey menu entry to reset the saved credentials
  * (no more F12 console), English code, @license and homepage in the header.
- * Storage keys are unchanged, so credentials saved by v25 keep working.
+ * Storage keys and @namespace are unchanged, so v25 installs update
+ * cleanly and saved credentials keep working.
  */
 
 (function () {
