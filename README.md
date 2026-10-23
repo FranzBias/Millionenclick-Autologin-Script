@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 ![Made with love](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20by%20Francesco-blueviolet)
+[![GitLab mirror](https://img.shields.io/badge/mirror-GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/FranzBias/Millionenclick-Autologin-Script)
 ![JavaScript](https://img.shields.io/badge/JavaScript-userscript-yellow?logo=javascript)
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-compatible-black)
 [![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-586469-red)](https://greasyfork.org/scripts/586469-web-de-login)
